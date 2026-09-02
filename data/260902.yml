@@ -1,0 +1,67 @@
+about:
+  description: matplotlib: plotting with Python
+  license: NOASSERTION
+  homepage: https://matplotlib.org/stable/
+  head: 374b2da
+  archived: false
+  latestVersion: v3.11.1
+  collectedAt: 2026-09-02T02:41:35Z
+timeline:
+  created: 2011-02-19
+  lastCommit: 2026-09-01
+  lastRelease: 2026-07-18
+popularity:
+  star: 23136
+  watcher: 580
+  fork: 8466
+  release: 102
+  contributor: 1660
+  pullRequest: 3408
+  issue: 11410
+language:
+  Python: 10407126
+  C++: 457488
+  Jupyter Notebook: 97171
+  Objective-C: 67745
+  JavaScript: 35608
+  Meson: 20042
+  CSS: 7318
+  C: 5111
+  HTML: 4421
+  Shell: 2380
+  TeX: 383
+  Lua: 189
+totalLine: 11104982
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 52
+    openPR: 22
+    closedIssue: 13
+    openIssue: 11
+    commit: 59
+  last90d:
+    since: 2026-06-04
+    release: 2
+    mergedPR: 220
+    openPR: 58
+    closedIssue: 59
+    openIssue: 51
+    commit: 378
+  last180d:
+    since: 2026-03-06
+    release: 5
+    mergedPR: 508
+    openPR: 97
+    closedIssue: 135
+    openIssue: 81
+    commit: 1158
+  last360d:
+    since: 2025-09-07
+    release: 7
+    mergedPR: 816
+    openPR: 146
+    closedIssue: 294
+    openIssue: 147
+    commit: 1918
