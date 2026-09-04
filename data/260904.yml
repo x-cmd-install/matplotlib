@@ -4,24 +4,24 @@ about:
     matplotlib: plotting with Python
   license: NOASSERTION
   homepage: https://matplotlib.org/stable/
-  head: a1e4fcb
+  head: 996cb9a
   archived: false
   latestVersion: v3.11.1
-  collectedAt: 2026-09-04T19:20:55Z
+  collectedAt: 2026-09-04T21:16:25Z
 timeline:
   created: 2011-02-19
   lastCommit: 2026-09-04
   lastRelease: 2026-07-18
 popularity:
-  star: 23146
+  star: 23145
   watcher: 581
   fork: 8468
   release: 102
-  contributor: 1661
-  pullRequest: 20815
+  contributor: 1662
+  pullRequest: 20820
   issue: 11411
 language:
-  Python: 10411266
+  Python: 10411628
   C++: 458094
   Jupyter Notebook: 97171
   Objective-C: 67745
@@ -33,64 +33,197 @@ language:
   Shell: 2380
   TeX: 383
   Lua: 189
-totalBytes: 11109728
+totalBytes: 11110090
 recent:
   last30d:
     since: 2026-08-05
     release: 0
-    mergedPR: 53
-    openPR: 28
-    closedIssue: 16
-    openIssue: 9
-    commit: 74
+    mergedPR: 59
+    openPR: 27
+    closedIssue: 17
+    openIssue: 8
+    commit: 79
   last60d:
     since: 2026-07-06
     release: 1
-    mergedPR: 136
-    openPR: 49
-    closedIssue: 35
-    openIssue: 29
-    commit: 234
+    mergedPR: 143
+    openPR: 47
+    closedIssue: 36
+    openIssue: 28
+    commit: 240
   last90d:
     since: 2026-06-06
     release: 2
-    mergedPR: 203
-    openPR: 63
-    closedIssue: 61
-    openIssue: 49
-    commit: 393
+    mergedPR: 210
+    openPR: 61
+    closedIssue: 62
+    openIssue: 48
+    commit: 399
   last180d:
     since: 2026-03-08
     release: 5
-    mergedPR: 514
-    openPR: 103
-    closedIssue: 135
-    openIssue: 79
-    commit: 1173
+    mergedPR: 521
+    openPR: 101
+    closedIssue: 136
+    openIssue: 78
+    commit: 1179
   last360d:
     since: 2025-09-09
     release: 7
-    mergedPR: 818
-    openPR: 152
-    closedIssue: 291
-    openIssue: 142
-    commit: 1933
+    mergedPR: 825
+    openPR: 150
+    closedIssue: 292
+    openIssue: 141
+    commit: 1939
   last720d:
     since: 2024-09-14
     release: 15
-    mergedPR: 1778
-    openPR: 205
-    closedIssue: 683
-    openIssue: 264
-    commit: 4098
+    mergedPR: 1785
+    openPR: 203
+    closedIssue: 684
+    openIssue: 263
+    commit: 4106
 total:
   release: 102
-  mergedPR: 17400
-  openPR: 420
-  closedIssue: 10357
-  openIssue: 1054
-  commit: 55173
+  mergedPR: 17407
+  openPR: 418
+  closedIssue: 10358
+  openIssue: 1053
+  commit: 55181
 ---
+path: /home/runner/.x-repo/github.com/matplotlib/matplotlib
+collectedAt: 2026-09-04T21:16:43Z
+loc:
+  Svg:
+    code: 232273
+    comments: 1143
+    blanks: 72
+    files: 617
+  Python:
+    code: 216999
+    comments: 27129
+    blanks: 37409
+    files: 912
+  ReStructuredText:
+    code: 61047
+    comments: 0
+    blanks: 15223
+    files: 430
+  CHeader:
+    code: 40118
+    comments: 7718
+    blanks: 7976
+    files: 156
+  Cpp:
+    code: 24519
+    comments: 2103
+    blanks: 6382
+    files: 55
+  Json:
+    code: 4837
+    comments: 0
+    blanks: 0
+    files: 14
+  ObjectiveC:
+    code: 1675
+    comments: 124
+    blanks: 227
+    files: 1
+  Meson:
+    code: 861
+    comments: 36
+    blanks: 69
+    files: 27
+  JavaScript:
+    code: 767
+    comments: 104
+    blanks: 130
+    files: 3
+  Css:
+    code: 397
+    comments: 89
+    blanks: 97
+    files: 6
+  Toml:
+    code: 388
+    comments: 80
+    blanks: 29
+    files: 1
+  Yaml:
+    code: 200
+    comments: 16
+    blanks: 17
+    files: 2
+  Jupyter:
+    code: 149
+    comments: 50
+    blanks: 62
+    files: 3
+  Html:
+    code: 126
+    comments: 3
+    blanks: 8
+    files: 11
+  Batch:
+    code: 55
+    comments: 2
+    blanks: 12
+    files: 1
+  Makefile:
+    code: 31
+    comments: 11
+    blanks: 8
+    files: 1
+  Ini:
+    code: 29
+    comments: 4
+    blanks: 5
+    files: 1
+  C:
+    code: 16
+    comments: 0
+    blanks: 3
+    files: 1
+  Tex:
+    code: 14
+    comments: 0
+    blanks: 5
+    files: 1
+  Sh:
+    code: 11
+    comments: 10
+    blanks: 7
+    files: 1
+  Bitbake:
+    code: 3
+    comments: 3
+    blanks: 0
+    files: 1
+  Lua:
+    code: 3
+    comments: 1
+    blanks: 0
+    files: 1
+  Autoconf:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 90
+    blanks: 39
+    files: 6
+  Text:
+    code: 0
+    comments: 474
+    blanks: 80
+    files: 25
+total:
+  code: 584759
+  comments: 39249
+  blanks: 67933
+  files: 2278
 ---
 date: "2026-08-24"
 repo:
