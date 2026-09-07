@@ -5,19 +5,19 @@ about:
   head: 2153774
   archived: false
   latestVersion: "v3.11.1"
-  collectedAt: 2026-09-07T06:13:44Z
+  collectedAt: 2026-09-07T18:15:47Z
 timeline:
   created: 2011-02-19
   lastCommit: 2026-09-07
   lastRelease: 2026-07-18
 popularity:
-  star: 23198
+  star: 23202
   watcher: 581
-  fork: 8483
+  fork: 8481
   release: 102
   contributor: 1663
   pullRequest: 20831
-  issue: 11412
+  issue: 11414
 language:
   Python: 10411601
   C++: 458094
@@ -39,7 +39,7 @@ recent:
     mergedPR: 64
     openPR: 24
     closedIssue: 14
-    openIssue: 7
+    openIssue: 9
     commit: 67
   last60d:
     since: 2026-07-09
@@ -47,7 +47,7 @@ recent:
     mergedPR: 144
     openPR: 45
     closedIssue: 32
-    openIssue: 27
+    openIssue: 29
     commit: 215
   last90d:
     since: 2026-06-09
@@ -55,7 +55,7 @@ recent:
     mergedPR: 214
     openPR: 59
     closedIssue: 63
-    openIssue: 47
+    openIssue: 49
     commit: 354
   last180d:
     since: 2026-03-11
@@ -63,7 +63,7 @@ recent:
     mergedPR: 522
     openPR: 96
     closedIssue: 131
-    openIssue: 77
+    openIssue: 79
     commit: 1145
   last360d:
     since: 2025-09-12
@@ -71,7 +71,7 @@ recent:
     mergedPR: 835
     openPR: 146
     closedIssue: 288
-    openIssue: 138
+    openIssue: 140
     commit: 1920
   last720d:
     since: 2024-09-17
@@ -79,18 +79,18 @@ recent:
     mergedPR: 1793
     openPR: 200
     closedIssue: 683
-    openIssue: 263
+    openIssue: 265
     commit: 4095
 total:
   release: 102
   mergedPR: 17420
   openPR: 416
   closedIssue: 10359
-  openIssue: 1053
+  openIssue: 1055
   commit: 55193
 ---
 path: /home/runner/.x-repo/github.com/matplotlib/matplotlib
-collectedAt: 2026-09-07T06:14:20Z
+collectedAt: 2026-09-07T18:16:21Z
 loc:
   Svg:
     code: 232273
@@ -367,7 +367,7 @@ checks:
       - 'Info: all commits (30) are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:14:22+00:00
+  collectedAt: 2026-09-07T18:16:23+00:00
   platform:
     darwin/arm64:
       name:  null
