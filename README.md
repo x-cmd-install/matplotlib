@@ -22,23 +22,22 @@ x install matplotlib
 
 - **Latest**: `v3.11.1` (2026-07-18)
 - **Last commit**: 2026-09-10
-- **Published**: 2026-07-18T03:45:29Z
 
 ## Popularity
 
-- **Stars**: 23,205 · **Forks**: 8,479 · **Open issues**: 11,420 · **Contributors**: 1,664
+- **Stars**: 23,206 · **Forks**: 8,478 · **Open issues**: 11,420 · **Contributors**: 1,664
 
 ## Totals (cumulative)
 
-- **Releases**: 102 · **Merged PRs**: 17430 · **Open PRs**: 416 · **Closed issues**: 10361 · **Open issues**: 1059 · **Commits**: 55214
+- **Releases**: 102 · **Merged PRs**: 17431 · **Open PRs**: 416 · **Closed issues**: 10362 · **Open issues**: 1058 · **Commits**: 55214
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 67 | 23 | 14 | 14 | 88 |
-| 90d | 2026-06-12 | 2 | 214 | 59 | 61 | 51 | 375 |
-| 360d | 2025-09-15 | 7 | 841 | 144 | 286 | 144 | 1942 |
+| 30d | 2026-08-11 | 0 | 68 | 23 | 14 | 14 | 88 |
+| 90d | 2026-06-12 | 2 | 215 | 59 | 61 | 51 | 375 |
+| 360d | 2025-09-15 | 7 | 842 | 144 | 286 | 144 | 1942 |
 
 ## Code size
 
@@ -67,8 +66,8 @@ Lowest-scoring checks:
 Install metadata for matplotlib lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `matplotlib` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/matplotlib.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/matplotlib.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T06:18:44Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T18:29:43Z._
