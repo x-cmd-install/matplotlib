@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.11.1` (2026-07-18)
-- **Last commit**: 2026-09-10
+- **Latest**: `v3.11.2` (2026-09-11)
+- **Last commit**: 2026-09-11
 
 ## Popularity
 
-- **Stars**: 23,206 · **Forks**: 8,479 · **Open issues**: 11,421 · **Contributors**: 1,664
+- **Stars**: 23,207 · **Forks**: 8,478 · **Open issues**: 11,421 · **Contributors**: 1,664
 
 ## Totals (cumulative)
 
-- **Releases**: 102 · **Merged PRs**: 17431 · **Open PRs**: 419 · **Closed issues**: 10362 · **Open issues**: 1059 · **Commits**: 55214
+- **Releases**: 103 · **Merged PRs**: 17432 · **Open PRs**: 418 · **Closed issues**: 10363 · **Open issues**: 1058 · **Commits**: 55216
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 68 | 27 | 14 | 15 | 88 |
-| last60d | 2026-07-12 | 1 | 147 | 49 | 32 | 35 | 236 |
-| 90d | 2026-06-12 | 2 | 215 | 63 | 61 | 52 | 375 |
-| last180d | 2026-03-14 | 5 | 526 | 95 | 130 | 84 | 1167 |
-| 360d | 2025-09-15 | 7 | 842 | 148 | 286 | 145 | 1942 |
-| last720d | 2024-09-20 | 15 | 1794 | 204 | 681 | 266 | 4095 |
+| 30d | 2026-08-12 | 1 | 68 | 25 | 14 | 14 | 90 |
+| last60d | 2026-07-13 | 2 | 148 | 47 | 33 | 33 | 238 |
+| 90d | 2026-06-13 | 2 | 216 | 61 | 60 | 51 | 377 |
+| last180d | 2026-03-15 | 6 | 524 | 93 | 131 | 83 | 1169 |
+| 360d | 2025-09-16 | 8 | 837 | 147 | 286 | 143 | 1944 |
+| last720d | 2024-09-21 | 16 | 1790 | 203 | 682 | 264 | 4095 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for matplotlib lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:48:49Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:25:32Z._
