@@ -43,8 +43,8 @@
   "body": "This is the second bugfix release of the 3.11.x series.\r\n\r\nThis release contains several bug-fixes and adjustments:\r\n\r\n- Speed up RGBA-stage image resampling\r\n- Fix `hexbin` clipping in PDF output\r\n- Fix `\\text` with internal braces\r\n- Fix some crashes and make some checks more robust to unlikely cases\r\n- Fix frame skew when saving GIF animations with `PillowWriter`\r\n- Fix HiDPI handling in Qt toolbar and WebAgg embeddings\r\n- Fix `ResizeEvent` handling for `TextBox`\r\n- Fix bug with PGF hatch linewidth and color\r\n- Fix a bug with drawing an empty Collection\r\n- Fix incorrect glyphs in Cairo backends\r\n- Improve build system to prevent conflicts between wheels and system libraries",
   "reactions": {
     "url": "https://api.github.com/repos/matplotlib/matplotlib/releases/386773243/reactions",
-    "total_count": 2,
-    "+1": 0,
+    "total_count": 3,
+    "+1": 1,
     "-1": 0,
     "laugh": 0,
     "hooray": 2,
