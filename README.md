@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.11.2` (2026-09-11)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-12
 
 ## Popularity
 
-- **Stars**: 23,210 · **Forks**: 8,479 · **Open issues**: 11,421 · **Contributors**: 1,664
+- **Stars**: 23,212 · **Forks**: 8,478 · **Open issues**: 11,422 · **Contributors**: 1,664
 
 ## Totals (cumulative)
 
-- **Releases**: 103 · **Merged PRs**: 17432 · **Open PRs**: 419 · **Closed issues**: 10364 · **Open issues**: 1057 · **Commits**: 55216
+- **Releases**: 103 · **Merged PRs**: 17435 · **Open PRs**: 420 · **Closed issues**: 10364 · **Open issues**: 1058 · **Commits**: 55218
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 68 | 26 | 15 | 13 | 90 |
-| last60d | 2026-07-13 | 2 | 148 | 48 | 34 | 32 | 238 |
-| 90d | 2026-06-13 | 2 | 216 | 62 | 61 | 50 | 377 |
-| last180d | 2026-03-15 | 6 | 524 | 94 | 132 | 82 | 1169 |
-| 360d | 2025-09-16 | 8 | 837 | 148 | 287 | 142 | 1944 |
-| last720d | 2024-09-21 | 16 | 1790 | 204 | 683 | 263 | 4095 |
+| 30d | 2026-08-13 | 1 | 71 | 27 | 14 | 14 | 92 |
+| last60d | 2026-07-14 | 2 | 150 | 49 | 34 | 32 | 240 |
+| 90d | 2026-06-14 | 2 | 216 | 62 | 58 | 50 | 379 |
+| last180d | 2026-03-16 | 6 | 523 | 95 | 132 | 82 | 1171 |
+| 360d | 2025-09-17 | 8 | 837 | 149 | 285 | 142 | 1946 |
+| last720d | 2024-09-22 | 16 | 1791 | 205 | 682 | 264 | 4089 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for matplotlib lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:38:46Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T06:11:04Z._
