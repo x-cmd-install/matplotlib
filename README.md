@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,219 · **Forks**: 8,482 · **Open issues**: 11,424 · **Contributors**: 1,664
+- **Stars**: 23,220 · **Forks**: 8,484 · **Open issues**: 11,424 · **Contributors**: 1,664
 
 ## Totals (cumulative)
 
-- **Releases**: 103 · **Merged PRs**: 17441 · **Open PRs**: 424 · **Closed issues**: 10365 · **Open issues**: 1059 · **Commits**: 55343
+- **Releases**: 103 · **Merged PRs**: 17441 · **Open PRs**: 426 · **Closed issues**: 10367 · **Open issues**: 1057 · **Commits**: 55343
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 69 | 31 | 10 | 15 | 150 |
-| last60d | 2026-07-18 | 2 | 138 | 49 | 33 | 30 | 322 |
-| 90d | 2026-06-18 | 2 | 209 | 62 | 58 | 48 | 471 |
-| last180d | 2026-03-20 | 6 | 524 | 97 | 127 | 80 | 1248 |
-| 360d | 2025-09-21 | 8 | 835 | 151 | 284 | 142 | 2050 |
-| last720d | 2024-09-26 | 16 | 1784 | 208 | 671 | 262 | 4201 |
+| 30d | 2026-08-18 | 1 | 66 | 33 | 9 | 15 | 150 |
+| last60d | 2026-07-19 | 1 | 138 | 51 | 33 | 27 | 322 |
+| 90d | 2026-06-19 | 2 | 208 | 64 | 55 | 48 | 471 |
+| last180d | 2026-03-21 | 6 | 524 | 98 | 126 | 79 | 1248 |
+| 360d | 2025-09-22 | 8 | 835 | 153 | 283 | 142 | 2050 |
+| last720d | 2024-09-27 | 16 | 1780 | 210 | 669 | 262 | 4195 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for matplotlib lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:53:20Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:53:52Z._
