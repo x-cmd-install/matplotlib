@@ -4,7 +4,7 @@
 
 matplotlib: plotting with Python
 
-![matplotlib](https://repo.x-cmd.io/matplotlib.svg)
+[![x-cmd/install — matplotlib Code Quality Monitoring Repo Card](https://repo.x-cmd.io/matplotlib.svg)](https://x-cmd.com/install/matplotlib)
 
 ## Install
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.11.2` (2026-09-11)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-19
 
 ## Popularity
 
-- **Stars**: 23,230 · **Forks**: 8,487 · **Open issues**: 11,424 · **Contributors**: 1,664
+- **Stars**: 23,237 · **Forks**: 8,489 · **Open issues**: 11,425 · **Contributors**: 1,664
 
 ## Totals (cumulative)
 
-- **Releases**: 103 · **Merged PRs**: 17441 · **Open PRs**: 434 · **Closed issues**: 10368 · **Open issues**: 1056 · **Commits**: 55343
+- **Releases**: 103 · **Merged PRs**: 17446 · **Open PRs**: 433 · **Closed issues**: 10368 · **Open issues**: 1057 · **Commits**: 55349
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 64 | 39 | 9 | 15 | 150 |
-| last60d | 2026-07-20 | 1 | 137 | 57 | 32 | 25 | 322 |
-| 90d | 2026-06-20 | 2 | 205 | 72 | 53 | 48 | 471 |
-| last180d | 2026-03-22 | 6 | 522 | 106 | 126 | 79 | 1248 |
-| 360d | 2025-09-23 | 8 | 835 | 161 | 283 | 142 | 2050 |
-| last720d | 2024-09-28 | 16 | 1779 | 217 | 670 | 261 | 4186 |
+| 30d | 2026-08-21 | 1 | 66 | 39 | 8 | 16 | 129 |
+| last60d | 2026-07-22 | 1 | 135 | 54 | 29 | 26 | 264 |
+| 90d | 2026-06-22 | 2 | 210 | 71 | 53 | 46 | 444 |
+| last180d | 2026-03-24 | 6 | 519 | 104 | 125 | 80 | 1194 |
+| 360d | 2025-09-25 | 8 | 836 | 159 | 282 | 142 | 2022 |
+| last720d | 2024-09-30 | 16 | 1781 | 217 | 667 | 262 | 4189 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for matplotlib lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:34:12Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:31:55Z._
