@@ -19,7 +19,7 @@ Total: **585,646** lines of code across **2177** files in the top 5 languages.
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 232,583 | 1,143 | 72 | 620 |
-| Python | 217,283 | 27,155 | 37,481 | 913 |
+| Python | 217,283 | 27,157 | 37,481 | 913 |
 | ReStructuredText | 61,241 | 0 | 15,239 | 433 |
 | CHeader | 40,212 | 7,728 | 7,988 | 156 |
 | Cpp | 24,764 | 2,123 | 6,408 | 55 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.11.2` (2026-09-11)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-24
 
 ## Popularity
 
-- **Stars**: 23,252 · **Forks**: 8,491 · **Open issues**: 11,425 · **Contributors**: 1,665
+- **Stars**: 23,255 · **Forks**: 8,494 · **Open issues**: 11,426 · **Contributors**: 1,665
 
 ## Totals (cumulative)
 
-- **Releases**: 103 · **Merged PRs**: 17450 · **Open PRs**: 429 · **Closed issues**: 10370 · **Open issues**: 1055 · **Commits**: 55372
+- **Releases**: 103 · **Merged PRs**: 17453 · **Open PRs**: 433 · **Closed issues**: 10371 · **Open issues**: 1055 · **Commits**: 55377
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 1 | 68 | 35 | 8 | 15 | 145 |
-| last60d | 2026-07-25 | 1 | 126 | 47 | 29 | 25 | 280 |
-| 90d | 2026-06-25 | 2 | 208 | 67 | 52 | 45 | 467 |
-| last180d | 2026-03-27 | 6 | 511 | 97 | 120 | 77 | 1217 |
-| 360d | 2025-09-28 | 8 | 832 | 155 | 281 | 140 | 2045 |
-| last720d | 2024-10-03 | 16 | 1779 | 212 | 659 | 260 | 4176 |
+| 30d | 2026-08-25 | 1 | 69 | 39 | 9 | 15 | 150 |
+| last60d | 2026-07-26 | 1 | 127 | 51 | 29 | 24 | 285 |
+| 90d | 2026-06-26 | 2 | 206 | 71 | 52 | 44 | 472 |
+| last180d | 2026-03-28 | 6 | 507 | 101 | 121 | 77 | 1222 |
+| 360d | 2025-09-29 | 8 | 834 | 159 | 281 | 140 | 2050 |
+| last720d | 2024-10-04 | 16 | 1781 | 216 | 659 | 260 | 4178 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for matplotlib lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:53:30Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T06:08:26Z._
