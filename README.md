@@ -14,12 +14,12 @@ x install matplotlib
 
 ## Code insight
 
-Total: **587,834** lines of code across **2179** files in the top 5 languages.
+Total: **587,848** lines of code across **2179** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 234,497 | 1,143 | 72 | 621 |
-| Python | 217,624 | 27,171 | 37,516 | 913 |
+| Python | 217,638 | 27,173 | 37,516 | 913 |
 | ReStructuredText | 61,196 | 0 | 15,223 | 434 |
 | CHeader | 40,226 | 7,731 | 7,990 | 156 |
 | Cpp | 24,715 | 2,120 | 6,399 | 55 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,369 · **Forks**: 8,513 · **Open issues**: 11,437 · **Contributors**: 1,668
+- **Stars**: 23,373 · **Forks**: 8,515 · **Open issues**: 11,438 · **Contributors**: 1,668
 
 ## Totals (cumulative)
 
-- **Releases**: 103 · **Merged PRs**: 17519 · **Open PRs**: 439 · **Closed issues**: 10384 · **Open issues**: 1053 · **Commits**: 55492
+- **Releases**: 103 · **Merged PRs**: 17520 · **Open PRs**: 438 · **Closed issues**: 10386 · **Open issues**: 1052 · **Commits**: 55494
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 69 | 30 | 5 | 8 | 129 |
-| last60d | 2026-08-16 | 1 | 144 | 52 | 17 | 22 | 302 |
-| 90d | 2026-07-17 | 2 | 221 | 70 | 40 | 37 | 482 |
-| last180d | 2026-04-18 | 6 | 517 | 101 | 112 | 75 | 1209 |
-| 360d | 2025-10-20 | 7 | 882 | 163 | 276 | 139 | 2116 |
-| last720d | 2024-10-25 | 16 | 1803 | 221 | 645 | 257 | 4172 |
+| 30d | 2026-09-16 | 0 | 68 | 28 | 6 | 8 | 131 |
+| last60d | 2026-08-17 | 1 | 144 | 51 | 17 | 22 | 304 |
+| 90d | 2026-07-18 | 2 | 216 | 66 | 41 | 36 | 484 |
+| last180d | 2026-04-19 | 6 | 517 | 99 | 113 | 75 | 1211 |
+| 360d | 2025-10-21 | 7 | 881 | 162 | 276 | 139 | 2118 |
+| last720d | 2024-10-26 | 16 | 1804 | 220 | 646 | 257 | 4170 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for matplotlib lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T06:01:34Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:52:49Z._
