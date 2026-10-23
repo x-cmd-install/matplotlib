@@ -14,13 +14,13 @@ x install matplotlib
 
 ## Code insight
 
-Total: **588,528** lines of code across **2184** files in the top 5 languages.
+Total: **588,594** lines of code across **2186** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 234,497 | 1,143 | 72 | 621 |
-| Python | 218,225 | 27,365 | 37,652 | 914 |
-| ReStructuredText | 61,279 | 0 | 15,251 | 438 |
+| Python | 218,271 | 27,370 | 37,656 | 914 |
+| ReStructuredText | 61,299 | 0 | 15,257 | 440 |
 | CHeader | 40,232 | 7,731 | 7,994 | 156 |
 | Cpp | 24,718 | 2,120 | 6,404 | 55 |
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.11.2` (2026-09-11)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-23
 
 ## Popularity
 
-- **Stars**: 23,386 · **Forks**: 8,521 · **Open issues**: 11,447 · **Contributors**: 1,671
+- **Stars**: 23,386 · **Forks**: 8,522 · **Open issues**: 11,452 · **Contributors**: 1,673
 
 ## Totals (cumulative)
 
-- **Releases**: 103 · **Merged PRs**: 17558 · **Open PRs**: 425 · **Closed issues**: 10398 · **Open issues**: 1049 · **Commits**: 55567
+- **Releases**: 103 · **Merged PRs**: 17565 · **Open PRs**: 426 · **Closed issues**: 10401 · **Open issues**: 1051 · **Commits**: 55577
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 84 | 22 | 9 | 13 | 150 |
-| last60d | 2026-08-23 | 1 | 167 | 41 | 21 | 25 | 348 |
-| 90d | 2026-07-24 | 1 | 229 | 52 | 44 | 32 | 497 |
-| last180d | 2026-04-25 | 4 | 534 | 86 | 121 | 72 | 1234 |
-| 360d | 2025-10-27 | 7 | 907 | 150 | 282 | 136 | 2170 |
-| last720d | 2024-11-01 | 16 | 1820 | 205 | 648 | 253 | 4192 |
+| 30d | 2026-09-23 | 0 | 85 | 22 | 12 | 14 | 160 |
+| last60d | 2026-08-24 | 1 | 174 | 42 | 23 | 27 | 359 |
+| 90d | 2026-07-25 | 1 | 234 | 52 | 47 | 34 | 508 |
+| last180d | 2026-04-26 | 4 | 541 | 87 | 124 | 74 | 1245 |
+| 360d | 2025-10-28 | 7 | 909 | 151 | 284 | 138 | 2181 |
+| last720d | 2024-11-02 | 15 | 1827 | 206 | 651 | 255 | 4193 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for matplotlib lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T06:03:37Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:09:50Z._
