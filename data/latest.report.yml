@@ -2,12 +2,12 @@ about:
   description: "matplotlib: plotting with Python"
   license: NOASSERTION
   homepage: https://matplotlib.org/stable/
-  head: f318e28
+  head: e2256af
   archived: false
   latestVersion: "v3.11.2"
   latestRelease: "v3.11.2"
   latestPrerelease: "v3.11.0rc2"
-  collectedAt: 2026-10-29T07:11:50Z
+  collectedAt: 2026-10-30T07:11:46Z
 timeline:
   created: 2011-02-19
   lastCommit: 2026-10-29
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-11
   lastPrerelease: 2026-05-13
 popularity:
-  star: 23399
+  star: 23400
   watcher: 580
-  fork: 8533
+  fork: 8535
   release: 103
   contributor: 1675
-  pullRequest: 21033
-  issue: 11454
+  pullRequest: 21036
+  issue: 11455
 language:
   Python: 10488341
   C++: 473869
@@ -38,63 +38,63 @@ language:
 totalBytes: 11202650
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
-    mergedPR: 80
-    openPR: 25
+    mergedPR: 81
+    openPR: 26
     closedIssue: 11
-    openIssue: 13
-    commit: 147
+    openIssue: 14
+    commit: 150
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 1
-    mergedPR: 165
-    openPR: 45
+    mergedPR: 161
+    openPR: 46
     closedIssue: 20
-    openIssue: 27
-    commit: 332
+    openIssue: 26
+    commit: 335
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 1
-    mergedPR: 227
+    mergedPR: 225
     openPR: 54
     closedIssue: 39
-    openIssue: 31
-    commit: 471
+    openIssue: 32
+    commit: 474
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 4
-    mergedPR: 530
-    openPR: 91
+    mergedPR: 529
+    openPR: 92
     closedIssue: 119
-    openIssue: 73
-    commit: 1215
+    openIssue: 74
+    commit: 1218
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 7
-    mergedPR: 910
+    mergedPR: 911
     openPR: 155
     closedIssue: 278
     openIssue: 138
-    commit: 2176
+    commit: 2179
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 15
     mergedPR: 1805
     openPR: 211
     closedIssue: 645
-    openIssue: 255
+    openIssue: 256
     commit: 4161
 total:
   release: 103
-  mergedPR: 17575
-  openPR: 430
+  mergedPR: 17576
+  openPR: 431
   closedIssue: 10404
-  openIssue: 1050
-  commit: 55597
+  openIssue: 1051
+  commit: 55598
 ---
 path: /home/runner/.x-repo/github.com/matplotlib/matplotlib
-collectedAt: 2026-10-29T07:12:32Z
+collectedAt: 2026-10-30T07:12:36Z
 loc:
   Svg:
     code: 234497
@@ -107,9 +107,9 @@ loc:
     blanks: 37658
     files: 914
   ReStructuredText:
-    code: 61289
+    code: 61226
     comments: 0
-    blanks: 15257
+    blanks: 15234
     files: 440
   CHeader:
     code: 40232
@@ -222,9 +222,9 @@ loc:
     blanks: 81
     files: 26
 total:
-  code: 587914
+  code: 587851
   comments: 39524
-  blanks: 68243
+  blanks: 68220
   files: 2293
 ---
 date: "2026-10-19"
