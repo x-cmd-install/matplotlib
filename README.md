@@ -14,7 +14,7 @@ x install matplotlib
 
 ## Code insight
 
-Total: **587,597** lines of code across **2186** files in the top 5 languages.
+Total: **587,598** lines of code across **2186** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.11.2` (2026-09-11)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-05
 
 ## Popularity
 
-- **Stars**: 23,421 · **Forks**: 8,542 · **Open issues**: 11,454 · **Contributors**: 1,675
+- **Stars**: 23,427 · **Forks**: 8,543 · **Open issues**: 11,455 · **Contributors**: 1,675
 
 ## Totals (cumulative)
 
-- **Releases**: 103 · **Merged PRs**: 17578 · **Open PRs**: 423 · **Closed issues**: 10405 · **Open issues**: 1049 · **Commits**: 55616
+- **Releases**: 103 · **Merged PRs**: 17581 · **Open PRs**: 422 · **Closed issues**: 10406 · **Open issues**: 1049 · **Commits**: 55620
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 67 | 19 | 12 | 13 | 123 |
-| last60d | 2026-09-05 | 1 | 145 | 39 | 21 | 24 | 274 |
-| 90d | 2026-08-06 | 1 | 226 | 49 | 38 | 31 | 448 |
-| last180d | 2026-05-08 | 4 | 522 | 84 | 117 | 74 | 1150 |
-| 360d | 2025-11-09 | 7 | 910 | 147 | 272 | 138 | 2186 |
-| last720d | 2024-11-14 | 15 | 1793 | 201 | 639 | 255 | 4157 |
+| 30d | 2026-10-06 | 0 | 67 | 18 | 13 | 13 | 127 |
+| last60d | 2026-09-06 | 1 | 146 | 37 | 22 | 24 | 278 |
+| 90d | 2026-08-07 | 1 | 223 | 47 | 38 | 30 | 452 |
+| last180d | 2026-05-09 | 4 | 522 | 83 | 118 | 74 | 1154 |
+| 360d | 2025-11-10 | 7 | 913 | 146 | 273 | 137 | 2190 |
+| last720d | 2024-11-15 | 15 | 1792 | 200 | 639 | 255 | 4156 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for matplotlib lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:56:34Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T08:14:24Z._
