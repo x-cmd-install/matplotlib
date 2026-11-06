@@ -14,12 +14,12 @@ x install matplotlib
 
 ## Code insight
 
-Total: **587,598** lines of code across **2186** files in the top 5 languages.
+Total: **587,608** lines of code across **2186** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 234,497 | 1,143 | 72 | 621 |
-| Python | 218,282 | 27,323 | 37,637 | 913 |
+| Python | 218,292 | 27,323 | 37,640 | 913 |
 | ReStructuredText | 61,238 | 0 | 15,238 | 441 |
 | CHeader | 40,210 | 7,731 | 7,989 | 156 |
 | Cpp | 24,711 | 2,120 | 6,402 | 55 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,427 · **Forks**: 8,543 · **Open issues**: 11,455 · **Contributors**: 1,675
+- **Stars**: 23,428 · **Forks**: 8,543 · **Open issues**: 11,455 · **Contributors**: 1,676
 
 ## Totals (cumulative)
 
-- **Releases**: 103 · **Merged PRs**: 17581 · **Open PRs**: 422 · **Closed issues**: 10406 · **Open issues**: 1049 · **Commits**: 55620
+- **Releases**: 103 · **Merged PRs**: 17582 · **Open PRs**: 423 · **Closed issues**: 10407 · **Open issues**: 1048 · **Commits**: 55623
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 67 | 18 | 13 | 13 | 127 |
-| last60d | 2026-09-06 | 1 | 146 | 37 | 22 | 24 | 278 |
-| 90d | 2026-08-07 | 1 | 223 | 47 | 38 | 30 | 452 |
-| last180d | 2026-05-09 | 4 | 522 | 83 | 118 | 74 | 1154 |
-| 360d | 2025-11-10 | 7 | 913 | 146 | 273 | 137 | 2190 |
-| last720d | 2024-11-15 | 15 | 1792 | 200 | 639 | 255 | 4156 |
+| 30d | 2026-10-07 | 0 | 66 | 18 | 14 | 12 | 130 |
+| last60d | 2026-09-07 | 1 | 146 | 38 | 21 | 22 | 281 |
+| 90d | 2026-08-08 | 1 | 222 | 48 | 38 | 29 | 455 |
+| last180d | 2026-05-10 | 4 | 517 | 83 | 119 | 73 | 1157 |
+| 360d | 2025-11-11 | 7 | 913 | 146 | 272 | 135 | 2193 |
+| last720d | 2024-11-16 | 15 | 1791 | 201 | 639 | 254 | 4152 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for matplotlib lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T08:14:24Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T08:16:11Z._
