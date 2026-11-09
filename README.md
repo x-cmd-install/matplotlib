@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.11.2` (2026-09-11)
-- **Last commit**: 2026-11-08
+- **Last commit**: 2026-11-09
 
 ## Popularity
 
-- **Stars**: 23,432 · **Forks**: 8,543 · **Open issues**: 11,456 · **Contributors**: 1,677
+- **Stars**: 23,435 · **Forks**: 8,542 · **Open issues**: 11,456 · **Contributors**: 1,677
 
 ## Totals (cumulative)
 
-- **Releases**: 103 · **Merged PRs**: 17586 · **Open PRs**: 423 · **Closed issues**: 10409 · **Open issues**: 1047 · **Commits**: 55628
+- **Releases**: 103 · **Merged PRs**: 17587 · **Open PRs**: 424 · **Closed issues**: 10409 · **Open issues**: 1047 · **Commits**: 55630
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 62 | 18 | 15 | 11 | 101 |
-| last60d | 2026-09-09 | 1 | 141 | 38 | 22 | 18 | 254 |
-| 90d | 2026-08-10 | 1 | 219 | 48 | 40 | 28 | 441 |
-| last180d | 2026-05-12 | 4 | 515 | 82 | 121 | 71 | 1108 |
-| 360d | 2025-11-13 | 7 | 915 | 146 | 271 | 133 | 2182 |
-| last720d | 2024-11-18 | 15 | 1791 | 201 | 641 | 253 | 4154 |
+| 30d | 2026-10-10 | 0 | 59 | 19 | 14 | 11 | 103 |
+| last60d | 2026-09-10 | 1 | 140 | 37 | 21 | 17 | 256 |
+| 90d | 2026-08-11 | 1 | 220 | 49 | 39 | 28 | 443 |
+| last180d | 2026-05-13 | 4 | 512 | 84 | 120 | 71 | 1110 |
+| 360d | 2025-11-14 | 6 | 916 | 148 | 271 | 133 | 2184 |
+| last720d | 2024-11-19 | 15 | 1791 | 203 | 639 | 252 | 4154 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for matplotlib lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:24:55Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:56:34Z._
