@@ -14,12 +14,12 @@ x install matplotlib
 
 ## Code insight
 
-Total: **587,812** lines of code across **2186** files in the top 5 languages.
+Total: **587,814** lines of code across **2186** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 234,497 | 1,143 | 72 | 621 |
-| Python | 218,508 | 27,346 | 37,685 | 913 |
+| Python | 218,510 | 27,348 | 37,686 | 913 |
 | ReStructuredText | 61,238 | 0 | 15,238 | 441 |
 | CHeader | 40,214 | 7,731 | 7,990 | 156 |
 | Cpp | 24,711 | 2,120 | 6,402 | 55 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,455 · **Forks**: 8,549 · **Open issues**: 11,461 · **Contributors**: 1,681
+- **Stars**: 23,459 · **Forks**: 8,545 · **Open issues**: 11,462 · **Contributors**: 1,681
 
 ## Totals (cumulative)
 
-- **Releases**: 103 · **Merged PRs**: 17602 · **Open PRs**: 425 · **Closed issues**: 10414 · **Open issues**: 1047 · **Commits**: 55656
+- **Releases**: 103 · **Merged PRs**: 17604 · **Open PRs**: 427 · **Closed issues**: 10415 · **Open issues**: 1047 · **Commits**: 55658
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 54 | 18 | 11 | 12 | 124 |
-| last60d | 2026-09-15 | 0 | 136 | 35 | 19 | 18 | 282 |
-| 90d | 2026-08-16 | 1 | 219 | 48 | 33 | 30 | 469 |
-| last180d | 2026-05-18 | 3 | 503 | 83 | 113 | 73 | 1136 |
-| 360d | 2025-11-19 | 6 | 923 | 149 | 270 | 134 | 2210 |
-| last720d | 2024-11-24 | 15 | 1790 | 204 | 638 | 252 | 4141 |
+| 30d | 2026-10-16 | 0 | 48 | 20 | 12 | 12 | 72 |
+| last60d | 2026-09-16 | 0 | 136 | 36 | 20 | 18 | 255 |
+| 90d | 2026-08-17 | 1 | 220 | 50 | 33 | 30 | 446 |
+| last180d | 2026-05-19 | 3 | 496 | 85 | 114 | 73 | 1079 |
+| 360d | 2025-11-20 | 6 | 925 | 151 | 269 | 134 | 2188 |
+| last720d | 2024-11-25 | 15 | 1788 | 206 | 638 | 252 | 4140 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for matplotlib lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:22:24Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:25:04Z._
